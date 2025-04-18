@@ -59,12 +59,11 @@ After reviewing the original project, I noticed several logic flaws that prevent
   
 </details>
 
-
-MM NEED TO ADD THIS PORTION
 <details>
   <summary>
     Enhanced Project Review
   </summary>
 
+My original enhancement plan for this project was to add a sorting algorithm for output results. This was a project I completed early on in schooling, and I hadn’t realized how many errors it contained. The code had severe logic flaws, and not all prompts worked as expected. The inline comments were rudimentary and not reader-friendly. The code was also unorganized and chaotic. It was fun revisiting this project and elevating it in more ways than I had initially intended.  
   
 </details>
